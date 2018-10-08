@@ -1,0 +1,21 @@
+Windows-1252
+UTF-8 
+U:1 Byte
+u:1 Byte
+Ü:2 Bytes
+ü:2 Bytes
+Ğ:2 Bytes
+ğ:2 Bytes
+I:1 Byte 
+ı:2 Bytes
+Excelsior!
+UTF-32 is the biggest. (40 bytes.)
+UTF-8,ISO-1 and ISO-9 has the same size. (10 bytes.) 
+
+Folder:3,5 kb
+Tar:7,2 kb
+Tar.gz:2,2 kb
+
+It doesn't change when you write "cd ."
+
+
